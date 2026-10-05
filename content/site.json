@@ -1,0 +1,12 @@
+{
+  "name": "Priorato Confraternite Chiavari",
+  "subtitle": "Confraternite della Diocesi di Chiavari",
+  "domain": "www.prioratoconfraternitechiavari.it",
+  "organization": "prioratoconfraternitechiavari",
+  "repository": "priorato-web",
+  "counter": {
+    "user": "PrioratoChiavar",
+    "host": "codicepro.shinystat.com",
+    "enabled": true
+  }
+}

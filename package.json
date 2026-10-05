@@ -1,0 +1,19 @@
+{
+  "name": "priorato-web",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sito del Priorato delle Confraternite della Diocesi di Chiavari",
+  "scripts": {
+    "build": "eleventy && node scripts/check-site.cjs",
+    "start": "eleventy --serve",
+    "build:portable": "node scripts/build-portable.cjs && node scripts/check-site.cjs",
+    "preview:portable": "npm run build:portable && node scripts/serve.cjs",
+    "preview:files": "npm run build:portable && node scripts/build-preview.cjs"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "3.1.6"
+  }
+}

@@ -1,0 +1,642 @@
+[
+  {
+    "id": 2,
+    "title": "Home",
+    "url": "/",
+    "file": "02-home.html",
+    "description": "Benvenuti nel sito del Priorato delle Confraternite della Diocesi di Chiavari Questo sito vuol essere un piccolo segno di condivisione del percorso di fede che da diversi secoli i Confratell",
+    "modified": "2026-03-08",
+    "category": 8,
+    "inMenu": true
+  },
+  {
+    "id": 3,
+    "title": "Composizione Priorato",
+    "url": "/priorato/composizione-priorato/",
+    "file": "03-composizione-priorato.html",
+    "description": "PRIORATO DIOCESANO DELLE CONFRATERNITE PER IL PERIODO GENNAIO 2023-GENNAIO 2028 Con Decreto Vescovile del 16 gennaio 2023 sono stati nominati i componenti del Priorato Diocesano delle Confra",
+    "modified": "2023-01-28",
+    "category": 8,
+    "inMenu": true
+  },
+  {
+    "id": 4,
+    "title": "Storia del Priorato",
+    "url": "/priorato/storia-del-priorato/",
+    "file": "04-storia-del-priorato.html",
+    "description": "Il Priorato Diocesano delle Confraternite della Diocesi di Chiavari è stato costituito in data 15 agosto 1999 da S.E. Mons. Alberto Maria Careggio, in allora Vescovo di Chiavari, nell’intent",
+    "modified": "2023-01-28",
+    "category": 8,
+    "inMenu": true
+  },
+  {
+    "id": 5,
+    "title": "Elenco Confraternite",
+    "url": "/confraternite/elenco-confraternite/",
+    "file": "05-elenco-confraternite.html",
+    "description": "VICARIATO DI SESTRI LEVANTE Confraternita dei Disciplinati di S. Caterina V.M. di Sestri Levante Confraternita N.S. del Carmelo di Sestri Levante Confraternita dei Disciplinati dei SS. Angel",
+    "modified": "2017-10-20",
+    "category": 10,
+    "inMenu": true
+  },
+  {
+    "id": 6,
+    "title": "Calendario 2026",
+    "url": "/appuntamenti/calendario-2017/",
+    "file": "06-calendario-2018.html",
+    "description": "VENERDI' 20 MARZO 2026 Via Crucis delle Confraternite a Sestri Levante DOMENICA 17 MAGGIO 2026 Raduno Regionale delle Confraternite a Rapallo VENERDI' 3 LUGLIO 2026 Processioni in onore dell",
+    "modified": "2026-02-08",
+    "category": 8,
+    "inMenu": true
+  },
+  {
+    "id": 7,
+    "title": "Statuto",
+    "url": "/documenti/statuto/",
+    "file": "07-statuto.html",
+    "description": "STATUTO DEL PRIORATO DELLE CONFRATERNITE DELLA DIOCESI DI CHIAVARI ART. 1 Il Priorato delle Confraternite della Diocesi di Chiavari, costituito sotto la protezione della B.V. Maria, venerata",
+    "modified": "2022-12-26",
+    "category": 8,
+    "inMenu": true
+  },
+  {
+    "id": 8,
+    "title": "Confraternita dei Disciplinati di S. Caterina V.M. di Sestri Levante",
+    "url": "/confraternita-dei-disciplinati-di-s-caterina-v-m-di-sestri-levante/",
+    "file": "08-confraternita-dei-disciplinati-di-s-caterina-v-m-di-sestri-levante.html",
+    "description": "La Confraternita dei Disciplinati di Santa Caterina Vergine e Martire è un’antica associazione religiosa laicale, sorta a Sestri Levante fin dal Basso Medioevo: indagini storico-documentarie",
+    "modified": "2017-10-14",
+    "category": 10,
+    "inMenu": false
+  },
+  {
+    "id": 9,
+    "title": "Confraternita del Suffragio e Morte di S. Lorenzo della Costa",
+    "url": "/confraternita-del-suffragio-e-morte-di-san-lorenzo-della-costa/",
+    "file": "09-confraternita-del-suffragio-e-morte-di-s-lorenzo-della-costa.html",
+    "description": "L’Oratorio fu eretto sulla piazza di fronte alla Chiesa parrocchiale, probabilmente nel XVII secolo non risultando negli atti della visita apostolica effettuata dal Vescovo Mons. Bossi nel 1",
+    "modified": "2017-10-20",
+    "category": 10,
+    "inMenu": false
+  },
+  {
+    "id": 10,
+    "title": "Confraternita di S. Antonio da Padova di Pontori",
+    "url": "/confraternita-s-antonio-da-padova-di-pontori-di-ne/",
+    "file": "10-confraternita-di-s-antonio-da-padova-di-pontori.html",
+    "description": "Presso la Parrocchia di S. Antonio di Padova esisteva già prima del Novecento una Confraternita denominata “di S. Antonio di Padova”. Essa ha origini remote, ma mancano fonti documentali che",
+    "modified": "2017-10-20",
+    "category": 10,
+    "inMenu": false
+  },
+  {
+    "id": 11,
+    "title": "Confraternita di N.S. del Rosario di Certenoli",
+    "url": "/confraternita-n-s-del-rosario-di-certenoli/",
+    "file": "11-confraternita-di-n-s-del-rosario-di-certenoli.html",
+    "description": "Fu istituita il 27 settembre 1719, nella Chiesa Parrocchiale di S. Maria di Certenoli, alla presenza dei Massari e della popolazione. Dello stesso anno sono poi i primi Capitoli della Confra",
+    "modified": "2017-10-20",
+    "category": 10,
+    "inMenu": false
+  },
+  {
+    "id": 12,
+    "title": "Confraternita della Sacratissima Vergine Maria Madre di Dio, del Protomartire S. Stefano e della SS. Trinità di Rapallo",
+    "url": "/confraternita-dei-bianchi-di-rapallo/",
+    "file": "12-confraternita-della-sacratissima-vergine-maria-madre-di-dio-del-protomartire-s-stefano-e-della-ss-trinita-di-rapallo.html",
+    "description": "Nel cuore del centro storico, dietro al palazzo comunale, si trova l'Oratorio detto dei Bianchi, perché fondato dalla \"Confraternita della Sacratissima Vergine Maria, del protomartire S.Stef",
+    "modified": "2017-10-20",
+    "category": 10,
+    "inMenu": false
+  },
+  {
+    "id": 13,
+    "title": "Confraternita dei Santi Angeli Custodi",
+    "url": "/confraternita-dei-disciplinati-dei-ss-angeli-custodi-di-sestri-levante/",
+    "file": "13-confraternita-dei-santi-angeli-custodi.html",
+    "description": "La Confraternita dei Santi Angeli Custodi ha sede presso la Parrocchia di Santa Margherita di Fossa Lupara nel Comune di Sestri Levante. La Confraternita risulta attiva già nel corso del Set",
+    "modified": "2017-10-20",
+    "category": 10,
+    "inMenu": false
+  },
+  {
+    "id": 14,
+    "title": "Confraternita N.S. del Carmelo di Sestri Levante",
+    "url": "/confraternita-n-s-del-carmelo-di-sestri-levante/",
+    "file": "14-confraternita-n-s-del-carmelo-di-sestri-levante.html",
+    "description": "La Confraternita risulta essere attiva presso la millenaria Pieve di S. Stefano del Ponte di Sestri Levante sin dal Settecento. Essa è intitolata a N.S. del Carmelo venerata presso la predet",
+    "modified": "2017-10-20",
+    "category": 10,
+    "inMenu": false
+  },
+  {
+    "id": 15,
+    "title": "Confraternita dell'Immacolata Concezione della B.V. Maria",
+    "url": "/confraternita-dell-immacolata-concezione-della-b-v-maria-di-moneglia/",
+    "file": "15-confraternita-dell-immacolata-concezione-della-b-v-maria.html",
+    "description": "La Confraternita ha sede in Moneglia, presso la Chiesa Parrocchiale dedicata a San Giorgio e risulta essere attiva già al finire del Seicento. Nel corso dei secoli la Confraternita ha visto",
+    "modified": "2017-10-20",
+    "category": 10,
+    "inMenu": false
+  },
+  {
+    "id": 16,
+    "title": "Confraternita Mortis et Orationis di Rapallo",
+    "url": "/confraternita-mortis-et-orationis-neri-di-rapallo/",
+    "file": "16-confraternita-mortis-et-orationis-di-rapallo.html",
+    "description": "La Confraternita \"Mortis et Orationis\" di Rapallo venne costituita nel 1630 per iniziativa di alcuni rapallesi che vollero dedicarsi al pietoso ufficio di dare sepoltura ai defunti poveri e",
+    "modified": "2017-10-20",
+    "category": 10,
+    "inMenu": false
+  },
+  {
+    "id": 17,
+    "title": "Confraternita di San Rocco di Graveglia",
+    "url": "/confraternita-s-rocco-di-graveglia/",
+    "file": "17-confraternita-di-san-rocco-di-graveglia.html",
+    "description": "La Confraternita ha attualmente sede presso l’antica Prioria di San Eufemiano; in precedenza dovrebbe aver avuto la propria sede in una piccola Chiesa. Verso la fine dell’Ottocento la Confra",
+    "modified": "2017-10-20",
+    "category": 10,
+    "inMenu": false
+  },
+  {
+    "id": 18,
+    "title": "Confraternita di S. Martino di Cogorno",
+    "url": "/confraternita-s-martino-di-san-salvatore-di-cogorno/",
+    "file": "18-confraternita-di-s-martino-di-cogorno.html",
+    "description": "Nata per il soccorso ai malati e ai moribondi ed indirizzata particolarmente alla gioventù, l’esistenza della Confraternita è documentata almeno dal XIII secolo. Nel 1650 il Cardinale Durazz",
+    "modified": "2017-10-20",
+    "category": 10,
+    "inMenu": false
+  },
+  {
+    "id": 19,
+    "title": "Confraternita di San Giovanni Battista di Cogorno",
+    "url": "/confraternita-s-giovanni-battista-di-cogorno/",
+    "file": "19-confraternita-di-san-giovanni-battista-di-cogorno.html",
+    "description": "La nascita di una Confraternita di Disciplinanti nella Parrocchia di San Lorenzo di Cogorno risalirebbe alla seconda metà del Quattrocento. Essa è citata da Monsignor Durazzo nel 1654 tra gl",
+    "modified": "2017-10-20",
+    "category": 10,
+    "inMenu": false
+  },
+  {
+    "id": 20,
+    "title": "Confraternita di N.S. del Carmine di Monteghirfo",
+    "url": "/confraternita-n-s-del-carmine-di-monteghirfo/",
+    "file": "20-confraternita-di-n-s-del-carmine-di-monteghirfo.html",
+    "description": "La Confraternita fu costituita verso la metà dell’Ottocento all’interno della Chiesa parrocchiale. Lo Statuto prevedeva l’accompagnamento e il suffragio dei defunti e la preparazione liturgi",
+    "modified": "2017-10-20",
+    "category": 10,
+    "inMenu": false
+  },
+  {
+    "id": 21,
+    "title": "Confraternita di San Rocco di Zerli",
+    "url": "/confraternita-s-rocco-di-zerli/",
+    "file": "21-confraternita-di-san-rocco-di-zerli.html",
+    "description": "L’oratorio sarebbe sorto a seguito della pestilenza che, tra il 1528 ed il 1530, aveva contagiato il genovesato. In esso fioriva nel 1735 la Compagnia dei Cinturati di S. Agostino erettavi n",
+    "modified": "2017-10-20",
+    "category": 10,
+    "inMenu": false
+  },
+  {
+    "id": 22,
+    "title": "Cookies - Ulteriori Informazioni",
+    "url": "/cookies-ulteriori-informazioni/",
+    "file": "22-cookies-ulteriori-informazioni.html",
+    "description": "I cookies sono piccoli file prodotti dal server del sito visitato, che vengono scaricati e memorizzati nel disco rigido del computer dell'utente tramite il browser quando lo si visita. I coo",
+    "modified": "2017-10-14",
+    "category": 8,
+    "inMenu": false
+  },
+  {
+    "id": 23,
+    "title": "Confraternita del Suffragio e Buona Morte di Santa Margherita Ligure",
+    "url": "/confraternita-del-suffragio-e-buona-morte-di-santa-margherita-ligure/",
+    "file": "23-confraternita-del-suffragio-e-buona-morte-di-santa-margherita-ligure.html",
+    "description": "La Confraternita ha sede presso l'Oratorio della Madonna del Suffragio (conosciuto anche come Oratorio della Buona Morte e Orazione); si tratta di un edificio posto nel cuore di Santa Marghe",
+    "modified": "2017-10-20",
+    "category": 10,
+    "inMenu": false
+  },
+  {
+    "id": 24,
+    "title": "Confraternita SS. Trinità di Lavagna",
+    "url": "/confraternita-ss-trinita-di-lavagna/",
+    "file": "24-confraternita-ss-trinita-di-lavagna.html",
+    "description": "Secondo le scarne notizie storiche, questo a causa della dispersione e distruzione del prezioso archivio storico per mano dei soldati francesi in epoca napoleonica (fine XVIII secolo), la fo",
+    "modified": "2017-10-20",
+    "category": 10,
+    "inMenu": false
+  },
+  {
+    "id": 25,
+    "title": "ArciConfraternita S. Bernardo e S. Lucia di Santa Margherita Ligure",
+    "url": "/arciconfraternita-s-bernardo-e-s-lucia-di-santa-margherita-ligure/",
+    "file": "25-arciconfraternita-s-bernardo-e-s-lucia-di-santa-margherita-ligure.html",
+    "description": "La Confraternita ha sede presso un Oratorio sorto ai piedi della collina del Belvedere, lungo il rettilineo percorso un tempo dal torrente San Siro (oggi Corso Matteotti). Sono pochi gli ele",
+    "modified": "2017-10-20",
+    "category": 10,
+    "inMenu": false
+  },
+  {
+    "id": 26,
+    "title": "Confraternita N.S. Montallegro di Rapallo (S. Anna)",
+    "url": "/confraternita-n-s-montallegro-di-rapallo/",
+    "file": "26-confraternita-n-s-montallegro-di-rapallo-s-anna.html",
+    "description": "La Confraternita ha una storia relativamente breve, essendo stata fondata nel 2000 con Decreto del Vescovo di Chiavari Mons. Alberto Maria Careggio. Ha sede nella Parrocchia di Sant'Anna ist",
+    "modified": "2017-10-20",
+    "category": 10,
+    "inMenu": false
+  },
+  {
+    "id": 27,
+    "title": "ArciConfraternita N.S. del Suffragio di Rapallo (S. Maria del Campo)",
+    "url": "/arciconfraternita-n-s-del-suffragio-di-rapallo/",
+    "file": "27-arciconfraternita-n-s-del-suffragio-di-rapallo-s-maria-del-campo.html",
+    "description": "A Rapallo, nella frazione di Santa Maria del Campo, sul poggio nelle vicinanze della Chiesa Parrocchiale si trova l’Oratorio dedicato alla Natività di Maria Vergine, e sede dall’Arciconfrate",
+    "modified": "2017-10-20",
+    "category": 10,
+    "inMenu": false
+  },
+  {
+    "id": 28,
+    "title": "Confraternita S.Erasmo di Santa Margherita Ligure",
+    "url": "/confraternita-s-erasmo-di-santa-margherita-ligure/",
+    "file": "28-confraternita-s-erasmo-di-santa-margherita-ligure.html",
+    "description": "L’Oratorio di S. Erasmo fu costruito per la prima volta nel 1347 come cappella, per volontà dei pescatori e marinai del borgo di Corte. Eretto su uno scoglio, detto di Sant’Elmo, ai piedi de",
+    "modified": "2017-10-20",
+    "category": 10,
+    "inMenu": false
+  },
+  {
+    "id": 29,
+    "title": "Mappa del Raduno",
+    "url": "/archivio/mappa-del-raduno/",
+    "file": "29-mappa-del-raduno.html",
+    "description": "Scarica Mappa Invitiamo tutti i mezzi dei partecipanti, una volta usciti dal casello autostradale di Sestri L., a seguire la cartellonistica e le indicazioni che verranno fornite dai volonta",
+    "modified": "2017-10-20",
+    "category": 9,
+    "inMenu": false
+  },
+  {
+    "id": 30,
+    "title": "Programma Raduno",
+    "url": "/raduni/raduno-regionale-2014/programma-raduno/",
+    "file": "30-programma-raduno.html",
+    "description": "Il 4 Maggio 2014 Sestri Levante ospiterà il 58° Raduno Regionale delle Confraternite della Regione Ecclesiastica Ligure Scarica Manifesto",
+    "modified": "2017-10-20",
+    "category": 9,
+    "inMenu": true
+  },
+  {
+    "id": 31,
+    "title": "Filmati",
+    "url": "/rassegna-stampa/filmati/",
+    "file": "31-filmati.html",
+    "description": "RADUNO DIOCESANO 2022 A CONSCENTI RADUNO DIOCESANO 2018 A CARASCO RADUNO DIOCESANO 2017 A RAPALLO RADUNO REGIONALE 2017 A VARAZZE RADUNO DIOCESANO 2016 A CHIAVARI RADUNO DIOCESANO 2015 A SAN",
+    "modified": "2025-04-12",
+    "category": 8,
+    "inMenu": true
+  },
+  {
+    "id": 32,
+    "title": "Percorso Processione",
+    "url": "/raduni/raduno-regionale-2014/percorso-processione/",
+    "file": "32-percorso-processione.html",
+    "description": "",
+    "modified": "2017-10-20",
+    "category": 9,
+    "inMenu": true
+  },
+  {
+    "id": 33,
+    "title": "Programma 2015",
+    "url": "/raduni/raduni-diocesani/raduno-diocesano-2015/programma-2015/",
+    "file": "33-programma-2015.html",
+    "description": "",
+    "modified": "2017-10-21",
+    "category": 9,
+    "inMenu": true
+  },
+  {
+    "id": 34,
+    "title": "Programma 2017",
+    "url": "/raduni/raduni-diocesani/raduno-diocesano-2017/programma-2017/",
+    "file": "34-programma-2017.html",
+    "description": "",
+    "modified": "2017-10-21",
+    "category": 9,
+    "inMenu": true
+  },
+  {
+    "id": 35,
+    "title": "Articoli di Giornale",
+    "url": "/rassegna-stampa/articoli-di-giornale/",
+    "file": "35-articoli-di-giornale.html",
+    "description": "Da \"Il Nuovo Levante\", 29 Settembre 2017: Da \"Il Secolo XIX\", 16 Ottobre 2017:",
+    "modified": "2017-10-21",
+    "category": 8,
+    "inMenu": true
+  },
+  {
+    "id": 36,
+    "title": "Natale 2018",
+    "url": "/archivio/natale-2018/",
+    "file": "36-natale-2018.html",
+    "description": "",
+    "modified": "2018-11-23",
+    "category": 8,
+    "inMenu": false
+  },
+  {
+    "id": 37,
+    "title": "Locandina",
+    "url": "/archivio/raduno-giovani-confratelli/",
+    "file": "37-raduno-giovani-confratelli.html",
+    "description": "",
+    "modified": "2018-03-04",
+    "category": 8,
+    "inMenu": false
+  },
+  {
+    "id": 38,
+    "title": "Modulo di iscrizione",
+    "url": "/archivio/modulo-di-iscrizione/",
+    "file": "38-modulo-di-iscrizione.html",
+    "description": "",
+    "modified": "2018-03-04",
+    "category": 8,
+    "inMenu": false
+  },
+  {
+    "id": 39,
+    "title": "Modulo di iscrizione",
+    "url": "/archivio/modulo-di-iscrizione-2/",
+    "file": "39-modulo-di-iscrizione-2.html",
+    "description": "",
+    "modified": "2018-03-04",
+    "category": 8,
+    "inMenu": false
+  },
+  {
+    "id": 40,
+    "title": "Modulo di iscrizione",
+    "url": "/archivio/modulo-di-iscrizione-3/",
+    "file": "40-modulo-di-iscrizione-3.html",
+    "description": "",
+    "modified": "2018-03-04",
+    "category": 8,
+    "inMenu": false
+  },
+  {
+    "id": 41,
+    "title": "Modulo di iscrizione",
+    "url": "/archivio/modulo-di-iscrizione-4/",
+    "file": "41-modulo-di-iscrizione-4.html",
+    "description": "",
+    "modified": "2018-03-04",
+    "category": 8,
+    "inMenu": false
+  },
+  {
+    "id": 42,
+    "title": "Ricettività",
+    "url": "/archivio/ricettivita/",
+    "file": "42-ricettivita.html",
+    "description": "",
+    "modified": "2018-03-04",
+    "category": 8,
+    "inMenu": false
+  },
+  {
+    "id": 44,
+    "title": "Raduno Nazionale Milano 2018",
+    "url": "/archivio/raduno-nazionale-milano-2018/",
+    "file": "44-raduno-nazionale-milano-2018.html",
+    "description": "",
+    "modified": "2018-05-21",
+    "category": 8,
+    "inMenu": false
+  },
+  {
+    "id": 45,
+    "title": "montallegro",
+    "url": "/archivio/montallegro/",
+    "file": "45-montallegro.html",
+    "description": "",
+    "modified": "2024-06-16",
+    "category": 8,
+    "inMenu": false
+  },
+  {
+    "id": 46,
+    "title": "madonna orto",
+    "url": "/archivio/madonna-orto/",
+    "file": "46-madonna-orto.html",
+    "description": "",
+    "modified": "2024-06-16",
+    "category": 8,
+    "inMenu": false
+  },
+  {
+    "id": 47,
+    "title": "Pellegrinaggio Lourde",
+    "url": "/archivio/pellegrinaggio-lourde/",
+    "file": "47-pellegrinaggio-lourde.html",
+    "description": "",
+    "modified": "2018-07-16",
+    "category": 8,
+    "inMenu": false
+  },
+  {
+    "id": 48,
+    "title": "Raduno Carasco 2018",
+    "url": "/raduni/raduni-diocesani/raduno-diocesano-2018/",
+    "file": "48-raduno-carasco-2018.html",
+    "description": "",
+    "modified": "2018-10-03",
+    "category": 8,
+    "inMenu": true
+  },
+  {
+    "id": 49,
+    "title": "S. Messa Suffragio Defunti",
+    "url": "/archivio/s-messa-suffragio-defunti/",
+    "file": "49-s-messa-suffragio-defunti.html",
+    "description": "Comunità Parrocchiali della Val Graveglia Santa Messa in suffragio dei Nostri Defunti Con la partecipazione delle confraternite della Diocesi e la preghiera per tutti i confratelli defunti S",
+    "modified": "2018-10-25",
+    "category": 8,
+    "inMenu": false
+  },
+  {
+    "id": 50,
+    "title": "Raduno Moneglia 2019",
+    "url": "/raduni/raduni-diocesani/raduno-diocesano-2019/",
+    "file": "50-raduno-moneglia-2019.html",
+    "description": "",
+    "modified": "2019-08-16",
+    "category": 8,
+    "inMenu": true
+  },
+  {
+    "id": 51,
+    "title": "Natale 2025",
+    "url": "/archivio/natale-2022/",
+    "file": "51-natale-2022.html",
+    "description": "",
+    "modified": "2025-11-23",
+    "category": 8,
+    "inMenu": false
+  },
+  {
+    "id": 52,
+    "title": "Galleria Fotografica 2014",
+    "url": "/raduni/raduno-regionale-2014/galleriafotografica-2014/",
+    "file": "52-galleria-fotografica-2014.html",
+    "description": "",
+    "modified": "2021-07-12",
+    "category": 9,
+    "inMenu": true
+  },
+  {
+    "id": 53,
+    "title": "Galleria Fotografica 2015",
+    "url": "/raduni/raduni-diocesani/raduno-diocesano-2015/galleria-fotografica-2015/",
+    "file": "53-galleria-fotografica-2015.html",
+    "description": "",
+    "modified": "2021-07-12",
+    "category": 9,
+    "inMenu": true
+  },
+  {
+    "id": 54,
+    "title": "Galleria Fotografica 2016",
+    "url": "/raduni/raduni-diocesani/raduno-diocesano-2016/galleria-fotografica-2016/",
+    "file": "54-galleria-fotografica-2016.html",
+    "description": "",
+    "modified": "2022-03-21",
+    "category": 9,
+    "inMenu": true
+  },
+  {
+    "id": 55,
+    "title": "Incontro con il Vescovo",
+    "url": "/archivio/incontro-con-il-vescovo/",
+    "file": "55-incontro-con-il-vescovo.html",
+    "description": "",
+    "modified": "2021-11-01",
+    "category": 8,
+    "inMenu": false
+  },
+  {
+    "id": 56,
+    "title": "Incontro con il Vescovo",
+    "url": "/archivio/incontro-con-il-vescovo-2/",
+    "file": "56-incontro-con-il-vescovo-2.html",
+    "description": "",
+    "modified": "2021-11-01",
+    "category": 8,
+    "inMenu": false
+  },
+  {
+    "id": 57,
+    "title": "Pellegrinaggio Montallegro",
+    "url": "/archivio/pellegrinaggio-montallegro/",
+    "file": "57-pellegrinaggio-montallegro.html",
+    "description": "",
+    "modified": "2023-03-26",
+    "category": 8,
+    "inMenu": false
+  },
+  {
+    "id": 58,
+    "title": "Galleria Fotografica 2022",
+    "url": "/raduni/raduni-diocesani/raduno-diocesano-2022/galleria-fotografica-2022/",
+    "file": "58-galleria-fotografica-2022.html",
+    "description": "",
+    "modified": "2022-03-21",
+    "category": 8,
+    "inMenu": true
+  },
+  {
+    "id": 59,
+    "title": "Via Crucis 2023",
+    "url": "/archivio/via-crucis-2022/",
+    "file": "59-via-crucis-2022.html",
+    "description": "",
+    "modified": "2023-03-26",
+    "category": 8,
+    "inMenu": false
+  },
+  {
+    "id": 61,
+    "title": "Raduno regionale 2023",
+    "url": "/archivio/raduno-regionale-2023/",
+    "file": "61-raduno-regionale-2023.html",
+    "description": "",
+    "modified": "2023-04-25",
+    "category": 8,
+    "inMenu": false
+  },
+  {
+    "id": 62,
+    "title": "Pellegrinaggio Crea",
+    "url": "/archivio/pellegrinaggio-crea/",
+    "file": "62-pellegrinaggio-crea.html",
+    "description": "",
+    "modified": "2024-02-04",
+    "category": 8,
+    "inMenu": false
+  },
+  {
+    "id": 63,
+    "title": "Raduno Diocesano 2025",
+    "url": "/archivio/raduno-diocesano-2025/",
+    "file": "63-raduno-diocesano-2025.html",
+    "description": "",
+    "modified": "2025-08-27",
+    "category": 8,
+    "inMenu": false
+  },
+  {
+    "id": 64,
+    "title": "Programma",
+    "url": "/raduni/raduno-regionale-2015/programma-raduno-2/",
+    "file": "64-programma.html",
+    "description": "",
+    "modified": "2026-03-08",
+    "category": 8,
+    "inMenu": true
+  },
+  {
+    "id": 65,
+    "title": "Invito",
+    "url": "/raduni/raduno-regionale-2015/invito/",
+    "file": "65-invito.html",
+    "description": "",
+    "modified": "2026-03-08",
+    "category": 8,
+    "inMenu": true
+  },
+  {
+    "id": 66,
+    "title": "Mappa Raduno",
+    "url": "/raduni/raduno-regionale-2015/mappa-del-raduno/",
+    "file": "66-mappa-raduno.html",
+    "description": "",
+    "modified": "2026-03-08",
+    "category": 8,
+    "inMenu": true
+  },
+  {
+    "id": 67,
+    "title": "Indicazioni operative",
+    "url": "/raduni/raduno-regionale-2015/indicazioni-operative/",
+    "file": "67-indicazioni-operative.html",
+    "description": "RADUNO REGIONALE RAPALLO 2026 - INDICAZIONI OPERATIVE Il luogo di celebrazione della S. Messa è Piazza delle Nazioni, antistante alla Stazione Ferroviaria ed al Palazzo Comunale. La processi",
+    "modified": "2026-03-08",
+    "category": 8,
+    "inMenu": true
+  }
+]

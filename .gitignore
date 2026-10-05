@@ -1,0 +1,11 @@
+node_modules/
+_site/
+preview/
+ANTEPRIMA.html
+*.sql
+*.tar
+*.jpa
+*.zip
+.env*
+configuration.php
+.DS_Store
