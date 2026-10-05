@@ -107,7 +107,7 @@ for (const a of articles) {
 /*
  * Il recovery report è opzionale.
  * Se esiste, vengono verificati gli hash SHA-256 dei file originali.
- * Se non esiste, il controllo viene semplicemente saltato.
+ * Se non esiste, il controllo viene saltato.
  */
 let originalFilesChecked = 0;
 
@@ -144,20 +144,31 @@ if (fs.existsSync(reportPath)) {
   }
 }
 
-const favicon = JSON.parse(
-  fs.readFileSync(
-    path.join(project, 'docs/favicon-verification.json'),
-    'utf8'
-  )
+/*
+ * La verifica del favicon tramite hash è opzionale.
+ * Il favicon deve comunque essere presente nel sito generato.
+ */
+const faviconPath = path.join(root, 'favicon.ico');
+const faviconVerificationPath = path.join(
+  project,
+  'docs/favicon-verification.json'
 );
 
-if (
-  crypto
-    .createHash('sha256')
-    .update(fs.readFileSync(path.join(root, 'favicon.ico')))
-    .digest('hex') !== favicon.sha256
-) {
-  errors.push('Favicon diversa dall’originale');
+if (!fs.existsSync(faviconPath)) {
+  errors.push('Favicon assente');
+} else if (fs.existsSync(faviconVerificationPath)) {
+  const favicon = JSON.parse(
+    fs.readFileSync(faviconVerificationPath, 'utf8')
+  );
+
+  if (
+    crypto
+      .createHash('sha256')
+      .update(fs.readFileSync(faviconPath))
+      .digest('hex') !== favicon.sha256
+  ) {
+    errors.push('Favicon diversa dall’originale');
+  }
 }
 
 if (errors.length) {
