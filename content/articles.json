@@ -638,5 +638,14 @@
     "modified": "2026-03-08",
     "category": 8,
     "inMenu": true
-  }
+  },
+{
+  "id": 68,
+  "title": "Suffragio Defunti 2026",
+  "url": "/appuntamenti/calendario/suffragio-defunti-2026/",
+  "file": "68-suffragio-defunti-2026.html",
+  "description": "S. Messa Defunti 2026",
+  "modified": "2026-10-18",
+  "category": 8,
+  "inMenu": false
 ]
