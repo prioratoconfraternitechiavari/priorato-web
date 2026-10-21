@@ -1,4 +1,15 @@
 'use strict';
+// Aggiorna l'anno del copyright secondo il fuso orario italiano.
+(() => {
+  const anno = new Intl.DateTimeFormat('it-IT', {
+    year: 'numeric',
+    timeZone: 'Europe/Rome'
+  }).format(new Date());
+
+  document.querySelectorAll('[data-copyright-year]').forEach(elemento => {
+    elemento.textContent = anno;
+  });
+})();
 document.documentElement.classList.add('js');
 const base=document.body.dataset.base||'';
 const nav=document.getElementById('navigation');
