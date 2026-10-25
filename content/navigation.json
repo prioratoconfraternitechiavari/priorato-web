@@ -531,7 +531,8 @@
     "article": 25,
     "menutype": "confraternite",
     "url": "/arciconfraternita-s-bernardo-e-s-lucia-di-santa-margherita-ligure/"
-  }
+  },
+  {
     "id": 181,
     "title": "S. Messa Defunti",
     "parent_id": 1,
@@ -539,4 +540,5 @@
     "article": 1,
     "menutype": "appuntamenti,
     "url": "/appuntamenti/s. messa defunti/"
-  ]
+  }
+]
