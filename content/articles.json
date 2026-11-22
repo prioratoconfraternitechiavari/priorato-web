@@ -648,5 +648,17 @@
     "modified": "2026-10-18",
     "category": 8,
     "inMenu": false
+  },
+  {
+    "id": 69,
+    "title": "Natale Confraternite 2026",
+    "url": "/appuntamenti/calendario/natale-confraternite-2026/",
+    "file": "69-natale-confraternite-2026.html",
+    "description": "S. Messa Natale 2026",
+    "modified": "2026-11-22",
+    "category": 8,
+    "inMenu": false
   }
+
+
 ]
